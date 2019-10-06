@@ -1,2 +1,2 @@
 # complexNumbers
-to practice inheritance
+Simple Exercise to practice Inheritance
